@@ -39,15 +39,3 @@ These are possible extensions and should not be interpreted as confirmation that
 SignalLab is a forex-focused mobile application project. The repository contains the application code and supporting files for development and review.
 
 It can serve as a starting point for further work on a mobile product in the financial technology space.
-
-## Repository
-
-Source code: https://github.com/PhilipNzube/SignalLab
-
-## Disclaimer
-
-This project description is intended to explain the application's development focus. It is not a claim of financial performance, investment advice, or a guarantee of trading results.
-
-## About the Developer
-
-Built by Philip Nzube Onwubalili as a mobile application project exploring software development in the forex and financial technology space.
